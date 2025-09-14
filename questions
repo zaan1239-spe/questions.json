@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Flutter?",
+      "options": [
+        "A programming language",
+        "A UI toolkit for building cross-platform apps",
+        "A backend framework",
+        "A testing library"
+      ],
+      "answer": "A UI toolkit for building cross-platform apps"
+    },
+    {
+      "id": 2,
+      "question": "What is the difference between StatelessWidget and StatefulWidget?",
+      "options": [
+        "StatelessWidget can rebuild itself",
+        "StatefulWidget does not hold state",
+        "StatelessWidget cannot change its state after build",
+        "StatefulWidget cannot rebuild"
+      ],
+      "answer": "StatelessWidget cannot change its state after build"
+    },
+    {
+      "id": 3,
+      "question": "Which package is commonly used for making HTTP requests in Flutter?",
+      "options": [
+        "dio",
+        "http",
+        "retrofit",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": 4,
+      "question": "What is the use of async and await in Dart?",
+      "options": [
+        "For synchronous programming",
+        "To perform asynchronous operations",
+        "To handle streams only",
+        "For animations"
+      ],
+      "answer": "To perform asynchronous operations"
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the pubspec.yaml file?",
+      "options": [
+        "Defines app dependencies and metadata",
+        "Stores user preferences",
+        "Contains Flutter widgets",
+        "Manages platform channels"
+      ],
+      "answer": "Defines app dependencies and metadata"
+    }
+  ]
+}
